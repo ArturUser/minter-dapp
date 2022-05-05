@@ -1,9 +1,9 @@
 const contractAddress = "YOUR CONTRACT ADDRESS"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "WELCOME TO THE SILLY METAVERSE PETS HOUSE";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = "SMPH is multiple collection project where we kick-off with 1,111 NFTs—unique digital collectibles living on the Ethereum blockchain and end with 9,999 NFT's in our last collection. <br> Your Meta Pet doubles as your Silly Club membership card, and grants access to the Meta Pet House, members-only benefits. Future areas and perks can be unlocked by the community through roadmap activation. <br> <br> The project is unique in it's roots. We integrated a special rewarding system to owners of the NFT within the smart contract. Our unique rewarding system is based on a fundamental and essential principle, integrated in our smart contracts, that when purchasing the NFT, the owner has a probability of winning 111.1 ETH in the first collection, 222,2 ETH in the second collection and so on... <br> <br> For each collection, a GRAND PRIZE POT will be awarded to the Winner. <br> In addition, there will be 111 smaller AIRDROPS in the first collection that will be awarded completely randomly. Furthermore, we are working toward a system where holders of the NFT receive a monthly number of SMP Tokens. Collectors of the unique NFT's will be rewarded with our SMP Token monthly. ";
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
