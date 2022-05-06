@@ -10,8 +10,8 @@
   --font-code: 'Roboto', monospace;
   --bg-color: black;
   --font-color: #ffffff;
-  --btn-bg-color: #000000ee;
-  --accent-color: #32bcce;
+  --btn-bg-color: #ffffff;
+  --accent-color: #25acebee;
   --header-shadow: #25acebee 0px 0px 5px;
 }
 
@@ -33,7 +33,7 @@
 .navbar a {
   float: left;
   font-size: 16px;
-  color: #b238f8;
+  color: #25acebee;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -210,7 +210,7 @@ section {
   width: 100%;
   text-align: center;
   line-height: 1;
-  border-radius: 4px 4px 0 0;
+  border-radius: 40px 40px 40 40px;
 }
 .countdown .clock-item .count-text {
   background: var(--btn-bg-color);
@@ -286,8 +286,8 @@ section {
   box-sizing: border-box;
   width: 100%;
   text-align: left;
-  font: normal 16px sans-serif;
-  padding: 45px 50px;
+  font: normal 10px sans-serif;
+  padding: 20px 50px;
 }
 
 .footer-distributed .footer-left p {
