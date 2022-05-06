@@ -10,8 +10,8 @@
   --font-code: 'Roboto', monospace;
   --bg-color: black;
   --font-color: #ffffff;
-  --btn-bg-color: #25acebee;
-  --accent-color: #b238f8;
+  --btn-bg-color: #000000ee;
+  --accent-color: #32bcce;
   --header-shadow: #25acebee 0px 0px 5px;
 }
 
@@ -26,7 +26,7 @@
 .navbar {
   overflow: hidden;
   background-color: transparent;
-  font-family: Poppins;
+  font-family: 'Poppins';
 }
 
 /* Links inside the navbar */
@@ -120,7 +120,7 @@ body {
   flex-direction: column;
   max-width: 1500px;
   margin: 0 auto;
-  padding: 1rem 2rem;
+  padding: 1rem 1rem;
 }
 
 /* HEADER */
